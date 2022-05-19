@@ -1,9 +1,26 @@
 body {
-  background: #748d8f;
+  background: #ed9f20;
 }
 h1 {
   color: white;
+  text-align: center;
 }
 a {
+  display: flex;
+  justify-content: center;
   color: white;
+  text-align: center;
+  padding: 5px;
+}
+p {
+  text-align: center;
+}
+a:hover {
+  color: #be611c;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
